@@ -95,6 +95,7 @@ public class Dbconnection {
         }catch (SQLException e){
 
             e.printStackTrace();
+
         }
 
         return resultSet;
@@ -113,8 +114,4 @@ public class Dbconnection {
 
     
 }
-
-
-dgsd
-
 
